@@ -21,7 +21,7 @@ plt.grid()
 plt.legend()
 
 
-# plt.show()
+plt.show()
 
 t=0.1
 print( A*np.sin(2*np.pi*f*t+(2/np.pi)))
